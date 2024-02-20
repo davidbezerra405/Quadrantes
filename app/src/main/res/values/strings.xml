@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quadrantes</string>
+    <string name="txt_q1_cab">Texto que pode ser composto</string>
+    <string name="txt_q1_texto">Exibe texto e segue as diretrizes recomendadas do Material Design.</string>
+    <string name="txt_q2_cab">Imagem que pode ser composta</string>
+    <string name="txt_q2_texto">Cria um elemento que pode ser composto que organiza e desenha um determinado objeto da classe Painter.</string>
+    <string name="txt_q3_cab">Linha que pode ser composta</string>
+    <string name="txt_q3_texto">Um layout que pode ser composto que coloca seus filhos em uma sequência horizontal.</string>
+    <string name="txt_q4_cab">Coluna que pode ser composta</string>
+    <string name="txt_q4_texto">Um layout que pode ser composto que coloca seus filhos em uma sequência vertical.</string>
+</resources>
